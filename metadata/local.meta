@@ -31,16 +31,6 @@ owner = thilakraj
 version = 9.0.1
 modtime = 1664213700.232196000
 
-[props/openstack_log]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664253232.042005000
-
-[props/spark_log]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664255384.169959000
-
 [props/Thunderbird_log]
 owner = thilakraj
 version = 9.0.1
@@ -93,12 +83,12 @@ modtime = 1664355686.050105000
 [props/windows_logs]
 owner = thilakraj
 version = 9.0.1
-modtime = 1664355737.137281000
+modtime = 1664364337.483314000
 
 [props/zookeeper_logs]
 owner = thilakraj
 version = 9.0.1
-modtime = 1664355759.408830000
+modtime = 1664364420.001164000
 
 [indexes/splunkmania_apache_idx]
 owner = thilakraj
@@ -174,3 +164,8 @@ modtime = 1664356416.425600000
 owner = thilakraj
 version = 9.0.1
 modtime = 1664356439.328028000
+
+[props/healthapp_log]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664363261.904328000
