@@ -11,120 +11,60 @@ owner = thilakraj
 version = 9.0.1
 modtime = 1664205106.857756000
 
-[indexes/splunkmania_android_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664205154.908259000
-
 [props/health%20app_log]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664211521.009971000
-
-[indexes/splunkmania_healthapp_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664211544.273539000
 
 [props/Linux_log]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664212006.808746000
 
-[indexes/splunkmania_linux_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664212034.581124000
-
 [props/Mac_log]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664213417.146921000
-
-[indexes/splunkmania_mac_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664213440.881675000
 
 [props/SSH_log]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664213700.232196000
 
-[indexes/splunkmania_ssh_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664213718.336547000
-
 [props/openstack_log]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664253232.042005000
-
-[indexes/splunkmania_openstack_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664253257.628444000
 
 [props/spark_log]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664255384.169959000
 
-[indexes/splunkmania_spark_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664255411.169577000
-
 [props/Thunderbird_log]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664255516.108348000
-
-[indexes/splunkmania_thunderbird_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664255541.722445000
 
 [props/Apache_log]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664261758.094444000
 
-[indexes/splunkmania_apache_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664261780.768290000
-
 [props/BGL_log]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664348509.644607500
-
-[indexes/splunkmania_bgl_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664262109.442997000
 
 [props/Hadoop_log]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664262616.849708000
 
-[indexes/splunkmania_hadoop_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664262643.070252000
-
 [props/HDFS_log]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664263195.023382000
-
-[indexes/splunkmania_hdfs_idx]
-owner = thilakraj
-version = 9.0.1
-modtime = 1664263217.328444000
 
 [props/HPC_log]
 owner = thilakraj
@@ -135,3 +75,102 @@ modtime = 1664340280.452232000
 owner = thilakraj
 version = 9.0.1
 modtime = 1664340321.728602000
+
+[indexes/splunkmania_android_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664355153.416720000
+
+[props/android_logs]
+version = 9.0.1
+modtime = 1664355437.610351000
+
+[props/proxifier_logs]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664355686.050105000
+
+[props/windows_logs]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664355737.137281000
+
+[props/zookeeper_logs]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664355759.408830000
+
+[indexes/splunkmania_apache_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664355988.320865000
+
+[indexes/splunkmania_bgl_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356011.977260000
+
+[indexes/splunkmania_hadoop_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356033.982093000
+
+[indexes/splunkmania_hdfs-idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356057.675279000
+
+[indexes/splunkmania_healthapp_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356102.222366000
+
+[indexes/splunkmania_mac_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356123.793169000
+
+[indexes/splunkmania-hpc_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356150.624044000
+
+[indexes/splunkmania_linux_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356267.033183000
+
+[indexes/splunkmania_openssh_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356286.750281000
+
+[indexes/splunkmania_proxifier_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356322.665791000
+
+[indexes/splunkmania_openstack_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356357.731914000
+
+[indexes/splunkmania_spark_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356376.598935000
+
+[indexes/splunkmania_thunderbird_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356399.957184000
+
+[indexes/splunkmania_windows_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356416.425600000
+
+[indexes/splunkmania_zookeeper_idx]
+owner = thilakraj
+version = 9.0.1
+modtime = 1664356439.328028000
