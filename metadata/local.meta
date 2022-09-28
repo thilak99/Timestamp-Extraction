@@ -11,7 +11,7 @@ owner = thilakraj
 version = 9.0.1
 modtime = 1664205106.857756000
 
-[indexes/splunkmania_android_log]
+[indexes/splunkmania_android_idx]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664205154.908259000
@@ -21,7 +21,7 @@ owner = thilakraj
 version = 9.0.1
 modtime = 1664211521.009971000
 
-[indexes/splunkmania_healthapp_log]
+[indexes/splunkmania_healthapp_idx]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664211544.273539000
@@ -31,7 +31,7 @@ owner = thilakraj
 version = 9.0.1
 modtime = 1664212006.808746000
 
-[indexes/splunkmania_linux_log]
+[indexes/splunkmania_linux_idx]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664212034.581124000
@@ -41,7 +41,7 @@ owner = thilakraj
 version = 9.0.1
 modtime = 1664213417.146921000
 
-[indexes/splunkmania_mac_log]
+[indexes/splunkmania_mac_idx]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664213440.881675000
@@ -51,7 +51,7 @@ owner = thilakraj
 version = 9.0.1
 modtime = 1664213700.232196000
 
-[indexes/splunkmania_ssh_log]
+[indexes/splunkmania_ssh_idx]
 owner = thilakraj
 version = 9.0.1
 modtime = 1664213718.336547000
@@ -99,7 +99,7 @@ modtime = 1664261780.768290000
 [props/BGL_log]
 owner = thilakraj
 version = 9.0.1
-modtime = 1664262005.409427000
+modtime = 1664348509.644607500
 
 [indexes/splunkmania_bgl_idx]
 owner = thilakraj
