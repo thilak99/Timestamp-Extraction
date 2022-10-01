@@ -15,22 +15,22 @@ modtime = 1664211521.009971000
 [props/linux_logs]
 owner = thilakraj
 version = 9.0.1
-modtime = 1664212006.808746000
+modtime = 1664432285.063088000
 
 [props/mac_logs]
 owner = thilakraj
 version = 9.0.1
-modtime = 1664213417.146921000
+modtime = 1664432423.092295000
 
 [props/ssh_logs]
 owner = thilakraj
 version = 9.0.1
-modtime = 1664213700.232196000
+modtime = 1664432575.994650000
 
 [props/thunderbird_logs]
 owner = thilakraj
 version = 9.0.1
-modtime = 1664255516.108348000
+modtime = 1664433160.331021000
 
 [props/apache_logs]
 owner = thilakraj
@@ -71,17 +71,17 @@ modtime = 1664355437.610351000
 [props/proxifier_logs]
 owner = thilakraj
 version = 9.0.1
-modtime = 1664355686.050105000
+modtime = 1664432867.960372000
 
 [props/windows_logs]
 owner = thilakraj
 version = 9.0.1
-modtime = 1664364337.483314000
+modtime = 1664433275.117121000
 
 [props/zookeeper_logs]
 owner = thilakraj
 version = 9.0.1
-modtime = 1664364420.001164000
+modtime = 1664433394.377355000
 
 [indexes/splunkmania_apache_idx]
 owner = thilakraj
@@ -161,4 +161,12 @@ modtime = 1664356439.328028000
 [props/healthapp_logs]
 owner = thilakraj
 version = 9.0.1
-modtime = 1664363261.904328000
+modtime = 1664431255.650552000
+
+[props/openstack_logs]
+version = 9.0.1
+modtime = 1664432713.366904000
+
+[props/spark_logs]
+version = 9.0.1
+modtime = 1664432981.994948000
